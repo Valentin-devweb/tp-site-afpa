@@ -19,5 +19,9 @@
     top: 65%;
     left: 4%;
 }
+.bg-noir-fade{
+    background-color: rgba(0, 0, 0, 0.39);
+}
 
 /*###### CAROUSEL ######*/
+
