@@ -1,12 +1,20 @@
+body{
+    background: linear-gradient(to bottom right, rgb(0, 119, 255), rgba(150, 253, 31, 0.753))
+}
 /*###### NAV ######*/
 
 .w-15{
     width: 15%;
 }
-
+.navbar{
+    position: fixed;
+    z-index: 10;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
 
 /*###### NAV ######*/
-
 
 
 /*###### CAROUSEL ######*/
@@ -30,6 +38,10 @@
 
 
 /*###### MAIN ######*/
+main{
+    margin-top: 20%;
+
+}
 .bg-finance{
     background-color: rgb(80, 255, 173);
 }
