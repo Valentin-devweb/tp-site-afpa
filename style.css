@@ -6,3 +6,18 @@
 
 
 /*###### NAV ######*/
+
+/*###### CAROUSEL ######*/
+#carouselId{
+    position: relative;
+}
+.titredev{
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    color: white;
+    top: 65%;
+    left: 4%;
+}
+
+/*###### CAROUSEL ######*/
