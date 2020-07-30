@@ -7,6 +7,8 @@
 
 /*###### NAV ######*/
 
+
+
 /*###### CAROUSEL ######*/
 #carouselId{
     position: relative;
@@ -24,4 +26,16 @@
 }
 
 /*###### CAROUSEL ######*/
+
+
+
+/*###### MAIN ######*/
+.bg-finance{
+    background-color: rgb(80, 255, 173);
+}
+.btn-color{
+    background-color: gray;
+}
+
+/*###### MAIN ######*/
 
