@@ -50,4 +50,53 @@ main{
 }
 
 /*###### MAIN ######*/
+/*###### FOOTER ######*/
 
+footer a{
+    color: black;
+}
+
+/*###### FOOTER ######*/
+
+@media screen and (min-width:765px){
+    main{
+        margin-top: 12%;
+    }
+    .flexy{
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .fa-4x-md{
+        font-size: 4em;
+    }
+    .w-10-md{
+        width: 10%;
+    }
+    .titredev{
+        top: 75%;
+        left: 18%;
+    }
+    .titredev h1{
+        font-size: 2em;
+
+    }
+}
+
+@media screen and (min-width:1024px){
+    main{
+        margin-top: 7%;
+    }
+    .w-10-md{
+        width: 7%;
+    }
+    .w-lg{
+        width: 50% !important;
+    }
+    .titredev{
+        top: 75%;
+        left: 15%;
+    }
+    .titredev h1{
+        font-size: 3em;
+    }
+}
